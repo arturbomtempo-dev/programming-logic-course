@@ -39,12 +39,12 @@ Este repositório contém o material do curso de Lógica de Programação, focad
         -   [Estrutura de Repetição: do-while](https://github.com/arturbomtempo-dev/programming-logic-course/blob/main/materiais/05-estruturas-de-repeticao/05.03-estrutura-do-while.md)
         -   [Estrutura de Repetição: for](https://github.com/arturbomtempo-dev/programming-logic-course/blob/main/materiais/05-estruturas-de-repeticao/05.04-estrutura-for.md)
         -   [Consolidando Conhecimentos #3](https://github.com/arturbomtempo-dev/programming-logic-course/blob/main/materiais/05-estruturas-de-repeticao/05.05-consolidando-conhecimentos-03.md)
-    -   [Modularização](https://github.com/SpaceForDevelopment/Curso-Logica-Programacao/tree/main/materiais/06-modularizacao)
-        -   [O que é Modularização](https://github.com/SpaceForDevelopment/Curso-Logica-Programacao/blob/main/materiais/06-modularizacao/06.01-o-que-e-modularizacao.md)
-        -   [O que é um Procedimento](https://github.com/SpaceForDevelopment/Curso-Logica-Programacao/blob/main/materiais/06-modularizacao/06.02-procedimento.md)
-        -   [O que é uma Função](https://github.com/SpaceForDevelopment/Curso-Logica-Programacao/blob/main/materiais/06-modularizacao/06.03-funcao.md)
-        -   [Consolidando Conhecimentos #4](https://github.com/SpaceForDevelopment/Curso-Logica-Programacao/blob/main/materiais/06-modularizacao/06.04-consolidando-conhecimentos-04.md)
-        -   [Consolidando Conhecimentos #5](https://github.com/SpaceForDevelopment/Curso-Logica-Programacao/blob/main/materiais/06-modularizacao/06.05-consolidando-conhecimentos-05.md)
+    -   [Modularização](https://github.com/arturbomtempo-dev/programming-logic-course/tree/main/materiais/06-modularizacao)
+        -   [O que é Modularização](https://github.com/arturbomtempo-dev/programming-logic-course/blob/main/materiais/06-modularizacao/06.01-o-que-e-modularizacao.md)
+        -   [O que é um Procedimento](https://github.com/arturbomtempo-dev/programming-logic-course/blob/main/materiais/06-modularizacao/06.02-procedimento.md)
+        -   [O que é uma Função](https://github.com/arturbomtempo-dev/programming-logic-course/blob/main/materiais/06-modularizacao/06.03-funcao.md)
+        -   [Consolidando Conhecimentos #4](https://github.com/arturbomtempo-dev/programming-logic-course/blob/main/materiais/06-modularizacao/06.04-consolidando-conhecimentos-04.md)
+        -   [Consolidando Conhecimentos #5](https://github.com/arturbomtempo-dev/programming-logic-course/blob/main/materiais/06-modularizacao/06.05-consolidando-conhecimentos-05.md)
 
 ## Direitos de uso
 
